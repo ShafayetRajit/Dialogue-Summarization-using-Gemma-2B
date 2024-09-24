@@ -1,4 +1,6 @@
 # Dialogue-Summarization-using-Gemma-2B
+## _Check out the [Medium article](https://medium.com/@shafayet.rajit.101/summarize-dialogue-using-gemma-2b-ce5b01da283a?source=friends_link&sk=f5fcc52e3cc4420645cc30a77e4afb57) explaining the code._
+
 In this project, I developed a dialogue summarization tool utilizing Gemma. Through using a dataset, I further refined the Large Language Model (LLM) to enhance its performance. Gemma effectively generates valuable summaries of dialogues.
 
 ## Dataset ([Kaggle](https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum) | [HuggingFace](https://huggingface.co/datasets/knkarthick/dialogsum))
